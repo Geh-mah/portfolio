@@ -100,7 +100,7 @@ background-size: cover;
   font-family: Helvetica, Arial, sans-serif;
   color: #57599f;
   font-weight: 800;
-  font-size: 3em;
+  font-size: 2em;
   line-height: 1em;
   margin-bottom: 5px;
   margin-left: 50px; 
@@ -251,7 +251,7 @@ footer{
 /* Small devices (landscape phones, 576px and up) */
 @media (min-width: 576px) {
 .banner h1{
-  font-size: 1.3em;
+  font-size: 3em;
 
 }
 
